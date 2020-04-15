@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    background-color: #f5fafb;
+}
+.header {height: 55px;}
+.start {margin: 0;font-size: 17px;}
+.build{position: relative;}
+.caption {
+    position: absolute;
+    top: 33.5%;
+    width: 100%;
+}
+.icons-bootstrap {height: 455px;}
+.easy {padding: 0 50px;}
+.phone {height: 482px;}
+.responsive {height: 455px;}
+.showcase {height: 482px; background-color: #feffff;}
+.design {padding: 70px;}
+.people {height: 154px;}
+.people-1 {padding: 32px 0 87px;}
+.description { padding: 0 40px;}
+.about {height: 180px;}
