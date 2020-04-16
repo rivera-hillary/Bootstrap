@@ -16,7 +16,7 @@ body {
 .easy {padding: 0 50px;}
 .phone {height: 482px;}
 .responsive {height: 455px;}
-.showcase {}
+.showcase {background-color: #ffff;}
 .showcase-text {padding: 3rem;}
 .showcase-img {min-height: 30rem; background-size: cover;}
 .design {padding: 0 70px;}
