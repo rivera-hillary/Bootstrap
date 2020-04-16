@@ -11,13 +11,17 @@ body {
     top: 33.5%;
     width: 100%;
 }
-.icons-bootstrap {height: 455px;}
+.caption-2{top:31%}
+.icons {margin-top: 91px;}
+.icons-b {height: 232px; margin-bottom: 84px;}
 .easy {padding: 0 50px;}
 .phone {height: 482px;}
 .responsive {height: 455px;}
-.showcase {height: 482px; background-color: #feffff;}
-.design {padding: 70px;}
-.people {height: 154px;}
+.showcase {background-color: #ffff;}
+.showcase-text {padding: 3rem;}
+.showcase-img {min-height: 30rem; background-size: cover;}
+.design {padding: 0 70px;}
+.people {height: 104px;}
 .people-1 {padding: 32px 0 87px;}
 .description { padding: 0 40px;}
 .about {height: 180px;}
